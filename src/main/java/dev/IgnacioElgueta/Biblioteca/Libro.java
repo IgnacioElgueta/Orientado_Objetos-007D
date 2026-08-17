@@ -1,4 +1,4 @@
-package dev.IgnacioElgueta;
+package dev.IgnacioElgueta.Biblioteca;
 
 public class Libro {
     private String title;
